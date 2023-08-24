@@ -1,6 +1,6 @@
 # **Maryana Stefanyshyn - Data Analyst Portfolio**
 
-##**About**
+##**About**##
 
 Hello! I am a data analyst with experience in gathering, organizing, and analyzing data to support business decisions using a variety of tools and technologies. I am proficient in Python, R, SQL, Excel, PowerBI, and Tableau and have a strong understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking. 
 
