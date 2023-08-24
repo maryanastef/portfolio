@@ -1,6 +1,6 @@
 # **Maryana Stefanyshyn - Data Analyst Portfolio**
 
-##**About**##
+## **About**
 
 Hello! I am a data analyst with experience in gathering, organizing, and analyzing data to support business decisions using a variety of tools and technologies. I am proficient in Python, R, SQL, Excel, PowerBI, and Tableau and have a strong understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking. 
 
@@ -10,7 +10,7 @@ I have also included my work in programming languages such as Python, R, and SQL
 
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics/Data Science topics. 
 
-##**Table of Contents**
+## **Table of Contents**
 
 - Python:
 
@@ -27,16 +27,16 @@ This is a repository to showcase my skills, share projects and track my progress
 - Excel:
 
 
-##**Portfolio Projects**
+## **Portfolio Projects**
 
 
 
-##**Certificates**
+## **Certificates**
 
 
 
 
-##**Contact Me**
+## **Contact Me**
 
 Email: maryanastef99@gmail.com
 LinkedIn: [@maryana-stefanyshyn](https://www.linkedin.com/in/maryana-stefanyshyn-88547614b/)
