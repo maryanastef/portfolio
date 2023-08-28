@@ -11,7 +11,7 @@ Excel's formulas and functions enable complex calculations and data manipulation
 
 * [Bike Sales Dashboard and Analysis](https://github.com/maryanastef/portfolio/blob/main/Excel/Bike_Sales_Dashboard.xlsx)
 
-Description:
+Description: <br> 
 This dataset in the Bike Sales Dashboard contains sales data for different customers. The data includes the customer's marital status, gender, income, number of children, level of education, occupation, age, region, length of their commute, if they own a home, if they own a car, and if they have purchased a bike. 
 
 The dashboard is interactive and can be filtered by marital status, region, and level of education. 
