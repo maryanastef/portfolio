@@ -10,3 +10,5 @@ Excel's formulas and functions enable complex calculations and data manipulation
 ## Projects:
 
 * [Bike Sales Dashboard and Analysis](https://github.com/maryanastef/portfolio/blob/main/Excel/Bike_Sales_Dashboard.xlsx)
+
+<img width="468" alt="BikeAnalysis" src="https://github.com/maryanastef/portfolio/assets/90362903/4b54ccb6-3a65-4f8c-83f3-9dfdcb8f43b7">
