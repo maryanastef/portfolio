@@ -23,4 +23,4 @@ Excel's formulas and functions enable complex calculations and data manipulation
    * More single customers tend to purchase bikes than married customers.
 
 
-<img width="468" alt="BikeAnalysis" src="https://github.com/maryanastef/portfolio/assets/90362903/4b54ccb6-3a65-4f8c-83f3-9dfdcb8f43b7">
+    <img width="468" alt="BikeAnalysis" src="https://github.com/maryanastef/portfolio/assets/90362903/4b54ccb6-3a65-4f8c-83f3-9dfdcb8f43b7">
