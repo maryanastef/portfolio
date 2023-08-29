@@ -26,7 +26,7 @@ This is a repository to showcase my skills, share projects and track my progress
 
 
 - Tableau:
- * Tableau profile: [@maryana.stef](https://public.tableau.com/app/profile/maryana.stef)
+  * Visit my Tableau profile: [@maryana.stef](https://public.tableau.com/app/profile/maryana.stef)
 
 
 - Excel:
