@@ -12,11 +12,15 @@ This is a repository to showcase my skills, share projects and track my progress
 
 ## **Table of Contents**
 
-- Python:
+- About Me
 
+- Python:
+* [Quadratic Regression](https://github.com/maryanastef/portfolio/blob/main/Python/Quadratic_Regression.ipynb)
+* [Spotify Top Songs of 2023 - EDA](https://github.com/maryanastef/portfolio/blob/main/Python/SpotifySongs_Python_Analysis.ipynb)
+  
 
 - SQL:
-
+* [Baseball Analysis](https://github.com/maryanastef/portfolio/blob/main/SQL/Baseball-Dataset/BaseBall_Database_Queries_SQL_Stefanyshyn%2CMaryana.sql)
 
 - R:
 
@@ -25,19 +29,17 @@ This is a repository to showcase my skills, share projects and track my progress
 
 
 - Excel:
-
-
-## **Portfolio Projects**
-
+* [Bike Sales Dashboard](https://github.com/maryanastef/portfolio/blob/main/Excel/Bike_Sales_Dashboard.xlsx)
 
 
 ## **Certificates**
 
-
-
+* Google Data Analytics Certificate (Coursera, Issued Nov 2022)
+* Advanced Google Analytics (Google, Issued Apr 2021)
+* Foundations of Digital Marketing and E-Commerce (Coursera, Issued Oct 2022)
 
 ## **Contact Me**
 
-Email: maryanastef99@gmail.com
-LinkedIn: [@maryana-stefanyshyn](https://www.linkedin.com/in/maryana-stefanyshyn-88547614b/)
+* Email: maryanastef99@gmail.com
+* LinkedIn: [@maryana-stefanyshyn](https://www.linkedin.com/in/maryana-stefanyshyn-88547614b/)
 
