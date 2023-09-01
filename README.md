@@ -33,6 +33,8 @@ This is a repository to showcase my skills, share projects and track my progress
 
 - Tableau:
   * Visit my Tableau profile: [@maryana.stef](https://public.tableau.com/app/profile/maryana.stef)
+  * [SuperStore Dashboard](https://public.tableau.com/app/profile/maryana.stef/viz/SuperStoreDashboard_16824674822880/SuperStoreOverview)
+  * [AirBnB 2016 Market Dashboard](https://public.tableau.com/app/profile/maryana.stef/viz/AirBnB2016_16796154541630/Dashboard1)
 
 
 - Excel:
@@ -48,5 +50,6 @@ This is a repository to showcase my skills, share projects and track my progress
 ## **Contact Me**
 
   * Email: maryanastef99@gmail.com
+    
   * LinkedIn: [@maryana-stefanyshyn](https://www.linkedin.com/in/maryana-stefanyshyn-88547614b/)
 
