@@ -1,4 +1,4 @@
-# **Maryana Stefanyshyn - Data Analyst Portfolio**
+# **Maryana Stefanyshyn - Business & Data Analyst Portfolio**
 
 ## **About**
 
@@ -43,6 +43,9 @@ This is a repository to showcase my skills, share projects and track my progress
 
 ## **Certificates**
 
+  * CS50's Introduction to Computer Science (Harvard, Issued Aug 2023)
+  * Scrum Fundamentals Certified (ScrumStudy, Aug 2023)
+  * Agile Project Management by Google (Coursera, Aug 2023)
   * Google Data Analytics Certificate (Coursera, Issued Nov 2022)
   * Advanced Google Analytics (Google, Issued Apr 2021)
   * Foundations of Digital Marketing and E-Commerce (Coursera, Issued Oct 2022)
